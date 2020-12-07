@@ -1,0 +1,2 @@
+# snifftest
+code sniffer tests
