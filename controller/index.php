@@ -1,2 +1,9 @@
 <?php
-phpinfo();
+
+class Test
+{
+    public function test()
+    {
+        return 'a';
+    }
+}
